@@ -16,7 +16,10 @@ Creating a vision for a GitHub organization for former Fujitsu Network Communica
 
 **Vision Statement for Fujitsu Network Communications Alumni - NetSmart GitHub Organization**
 
-**FNC group:** Gilbert Levesques Bay Area group!
+
+**FNC group:**
+
+Gilbert Levesques Bay Area group!
 
 contact: https://www.linkedin.com/in/dharmendranaik 
 
